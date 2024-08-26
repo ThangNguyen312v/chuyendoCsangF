@@ -1,0 +1,14 @@
+E:\hoctap\chuyendoiCF\bin\Debug\net8.0\chuyendoiCF.exe
+E:\hoctap\chuyendoiCF\bin\Debug\net8.0\chuyendoiCF.deps.json
+E:\hoctap\chuyendoiCF\bin\Debug\net8.0\chuyendoiCF.runtimeconfig.json
+E:\hoctap\chuyendoiCF\bin\Debug\net8.0\chuyendoiCF.dll
+E:\hoctap\chuyendoiCF\bin\Debug\net8.0\chuyendoiCF.pdb
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.AssemblyInfoInputs.cache
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.AssemblyInfo.cs
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.csproj.CoreCompileInputs.cache
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.dll
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\refint\chuyendoiCF.dll
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.pdb
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\chuyendoiCF.genruntimeconfig.cache
+E:\hoctap\chuyendoiCF\obj\Debug\net8.0\ref\chuyendoiCF.dll
